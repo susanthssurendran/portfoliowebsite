@@ -834,3 +834,12 @@ body.dark .tokyo_tm_modalbox .description_wrap::-webkit-scrollbar-thumb {
         max-width: 100px
     }
 }
+
+.list_wrapper .min-w-full{
+    height: 250px;
+}
+
+.float-whatsapp img{
+    width: 100%;
+    height: 100%;
+}
